@@ -1,5 +1,5 @@
 // Configuration - Update this to match your deployed backend URL
-const API_BASE_URL = 'http://localhost:8000'; // Change to your deployed URL in production
+const API_BASE_URL = 'https://predusk-assessment-track-a.onrender.com'; // Change to your deployed URL in production
 const API_KEY = 'supersecret123'; // API key for protected endpoints
 
 // Utility function for API calls
