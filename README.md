@@ -331,9 +331,22 @@ GET /projects?skill=Python&limit=3 # Filtered + paginated
    - Add records to `skills` and `projects` tables
    - Link them in `project_skills` table
 
+## Live Deployment Links
+
+### Backend API
+🔗 **https://predusk-assessment-track-a.onrender.com**
+
+- **API Documentation**: https://predusk-assessment-track-a.onrender.com/docs
+- **Health Check**: https://predusk-assessment-track-a.onrender.com/health
+
+### Frontend
+🔗 **https://predusk-assessment-track-a-1.onrender.com**
+
+Interactive web interface to explore profile, projects, skills, and search functionality.
+
 ## Resume Link
 
-[Your Resume Here](#) - Replace with your actual resume link
+📄 [Resume - Alagu Shruthi](https://drive.google.com/file/d/1wabhV-XT5r353DX4HyIGkwbMrTWI9Sqz/view?usp=sharing)
 
 ## Support
 
